@@ -17,16 +17,17 @@
 
             <div class="dropdown show">
                 <a class="btn btn-secondary dropdown-toggle" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                    Dropdown link
+                    Technical Temporaries
                 </a>
 
                 <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                <a class="dropdown-item" href="./login.php">Login</a>
+                    <a class="dropdown-item" href="./login.php">Login</a>
+                    <a class="dropdown-item" href="./login.php">Sign up</a>
                 </div>
             </div>
 
             <div class="col-md-6">
-                Poob
+
             </div>
         </div>
 
